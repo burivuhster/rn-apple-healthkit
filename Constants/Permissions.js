@@ -30,6 +30,7 @@ export const Permissions = {
   FatTotal: "FatTotal",
   Fiber: "Fiber",
   Folate: "Folate",
+  InsulinDelivery: "InsulinDelivery",
   Iodine: "Iodine",
   Iron: "Iron",
   Magnesium: "Magnesium",
